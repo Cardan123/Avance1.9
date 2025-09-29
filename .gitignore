@@ -1,6 +1,8 @@
-# Ignorar archivos de imagen y PDF
+# Ignorar archivos de imagen
 *.png
-*.pdf
+
+# Ignorar archivo PDF específico
+E-4034-21-05-2025 EDIFICIO TELLO.pdf
 
 # Ignorar archivos de sistema
 .DS_Store
