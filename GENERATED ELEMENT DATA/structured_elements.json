@@ -1,0 +1,5739 @@
+[
+  {
+    "element_id": "VS-403",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.4,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "23_09-20-33-00.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.5,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 7.5,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "23_09-20-33-00.png",
+            "confidence": "high",
+            "notes": "Continuous assumed based on similar beams"
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "23_09-20-33-00.png",
+            "confidence": "high",
+            "notes": "Continuous assumed based on similar beams"
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "23_09-20-33-00.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": 4.0,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Standard cover value"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-402",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.7,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "23_09-20-27-22.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 13.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top continuous",
+          "source": {
+            "view_type": "Section View",
+            "screenshot_filename": "23_09-20-27-22.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Section View",
+            "screenshot_filename": "23_09-20-27-22.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8 mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Section View",
+            "screenshot_filename": "23_09-20-27-22.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": 4.0,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Standard cover value"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-404",
+    "element_type": "beam",
+    "drawing_source": "E-23-E-33",
+    "geometry": {
+      "cross_section_width_meters": null,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "23_09-20-35-46.png",
+        "confidence": "medium",
+        "notes": "Beam VS-404 visible but cross-section dimensions unclear in elevation."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "23_09-20-35-46.png",
+        "confidence": "low",
+        "notes": "Reinforcement details not clearly visible in this view."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-202",
+    "element_type": "beam",
+    "drawing_source": "E-23-E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_09-21-36-26.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 7.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 7.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Section A-A",
+            "screenshot_filename": "11_09-21-36-26.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Section A-A",
+            "screenshot_filename": "11_09-21-36-26.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05m, resto @0.25m",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-36-26.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": 4.0,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Standard cover value"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-302",
+    "element_type": "beam",
+    "drawing_source": "E-23",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_09-21-02-40.png",
+        "confidence": "high",
+        "notes": "Width and height clearly labeled in SECCION A"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-02-40.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-02-40.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-02-40.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": 4.0,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Standard cover value"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-305",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": null,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Plan View",
+        "screenshot_filename": "11_09-21-05-08.png",
+        "confidence": "low",
+        "notes": "Beam VS-305 visible in plan view but no cross-section details available in the provided screenshot."
+      },
+      "components": []
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "None",
+        "screenshot_filename": "11_09-21-05-08.png",
+        "confidence": "low",
+        "notes": "No reinforcement details visible for VS-305 in the provided screenshot."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-406",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": null,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "23_09-20-42-47.png",
+        "confidence": "medium",
+        "notes": "Beam VS-406 visible but dimensions not clear"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 13.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "23_09-20-42-47.png",
+        "confidence": "low",
+        "notes": "Reinforcement details for VS-406 not clearly visible."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-201",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.4,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_09-21-35-49.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 16.9,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 16.9,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 16.9,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": null,
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-35-49.png",
+            "confidence": "medium",
+            "notes": "Diameter not clearly visible"
+          }
+        }
+      ],
+      "concrete_cover_cm": 4.0,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Standard cover value"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-401",
+    "element_type": "beam",
+    "drawing_source": "E-23",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "23_09-20-26-16.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": "A",
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 10.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": "B",
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 10.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": "D",
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 10.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": "E",
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "Ø 16mm",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "23_09-20-26-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "Ø 25mm",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "23_09-20-26-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "Ø 8mm",
+          "distribution": "1@0.05m, resto @0.25m",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "23_09-20-26-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "23_09-20-26-16.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not explicitly dimensioned."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-307",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.55,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_09-21-31-50.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.55,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 13.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-31-50.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-31-50.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-31-50.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_09-21-31-50.png",
+        "confidence": "low",
+        "notes": "No clear cover dimension found, but assuming standard cover based on the rebar size shown"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-306",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_09-21-28-59.png",
+        "confidence": "high",
+        "notes": "Width clearly labeled in Section A. Height not clearly visible in sections."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.1,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 7.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-28-59.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-28-59.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-28-59.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_09-21-28-59.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not clearly visible or labeled."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-301",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_09-21-02-16.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 10.05,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 10.05,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 10.05,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-02-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-02-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-02-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_09-21-02-16.png",
+        "confidence": "assumed",
+        "notes": "Concrete Cover not specified in drawing"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-101",
+    "element_type": "beam",
+    "drawing_source": "E-14",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Section",
+        "screenshot_filename": "11_10-00-12-26.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 5.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Section",
+            "screenshot_filename": "11_10-00-12-26.png",
+            "confidence": "high",
+            "notes": "Continuous assumed based on other similar beams"
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Section",
+            "screenshot_filename": "11_10-00-12-26.png",
+            "confidence": "high",
+            "notes": "Continuous assumed based on other similar beams"
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "7mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Section",
+            "screenshot_filename": "11_10-00-12-26.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Section",
+        "screenshot_filename": "11_10-00-12-26.png",
+        "confidence": "high",
+        "notes": null
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-304",
+    "element_type": "beam",
+    "drawing_source": "E-23",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_09-21-03-05.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.3,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 7.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-03-05.png",
+            "confidence": "high",
+            "notes": "Continuous"
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-03-05.png",
+            "confidence": "high",
+            "notes": "Continuous"
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "1/2\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-03-05.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "1/2\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-03-05.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-21-03-05.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "General Note",
+        "screenshot_filename": "11_09-21-03-05.png",
+        "confidence": "low",
+        "notes": "Concrete cover not explicitly given"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-303",
+    "element_type": "beam",
+    "drawing_source": "E-23",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_09-21-02-54.png",
+        "confidence": "high",
+        "notes": "Width clearly labeled as 30cm"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 8.25,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 8.25,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 8.25,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_09-21-02-54.png",
+        "confidence": "low",
+        "notes": "Reinforcement details not clearly visible in this view."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-102",
+    "element_type": "beam",
+    "drawing_source": "E-23",
+    "geometry": {
+      "cross_section_width_meters": 0.25,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "26_09-22-18-28.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": "A",
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 4.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": "B",
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 4.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": "C",
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 4.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": "D",
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "Ø 5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "26_09-22-18-28.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "Ø 5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "26_09-22-18-28.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "Ø 3/8\"",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "26_09-22-18-28.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "26_09-22-18-28.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not specified."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-106",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.4,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-14-58.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 1.68,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 1.68,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-14-58.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-14-58.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-14-58.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": 4.0,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Standard cover value"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-107",
+    "element_type": "beam",
+    "drawing_source": "E-23",
+    "geometry": {
+      "cross_section_width_meters": null,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-17-36.png",
+        "confidence": "medium",
+        "notes": "Beam visible but dimensions unclear"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 13.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-17-36.png",
+        "confidence": "low",
+        "notes": "Reinforcement details unclear in elevation view"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-110",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": null,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "11_10-00-29-41.png",
+        "confidence": "low",
+        "notes": "Cross-section not clearly visible for V-110"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 13.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "11_10-00-29-41.png",
+        "confidence": "low",
+        "notes": "Reinforcement details not clearly visible in elevation view."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-02",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "11_10-00-31-16.png",
+        "confidence": "high",
+        "notes": "Width clearly labeled below elevation. Height not clearly visible."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 5.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-00-31-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-00-31-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-00-31-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": 4.0,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Standard cover value"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-103",
+    "element_type": "beam",
+    "drawing_source": "E-23",
+    "geometry": {
+      "cross_section_width_meters": 0.2,
+      "cross_section_height_meters": 0.3,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "26_09-22-18-44.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": null,
+          "span_estimated": true
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": null,
+          "span_estimated": true
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": null,
+          "span_estimated": true
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "26_09-22-18-44.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "26_09-22-18-44.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "26_09-22-18-44.png",
+        "confidence": "low",
+        "notes": "Concrete cover not clearly visible or labeled"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-103",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.55,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-13-06.png",
+        "confidence": "high",
+        "notes": "Dimensions clearly labeled in Section A"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": null,
+          "span_estimated": true
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-00-13-06.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-00-13-06.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, 11@0.10, resto @0.20 C/r extremo",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-13-06.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Cover not explicitly dimensioned."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-105",
+    "element_type": "beam",
+    "drawing_source": "E-23-E-33",
+    "geometry": {
+      "cross_section_width_meters": null,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "11_10-00-05-43.png",
+        "confidence": "medium",
+        "notes": "Beam VS-105 is visible but dimensions are not clear from this view."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 13.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "11_10-00-05-43.png",
+        "confidence": "low",
+        "notes": "Reinforcement details not clearly visible in this view."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-01",
+    "element_type": "beam",
+    "drawing_source": "E-23-E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.5,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-30-11.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 1.68,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 1.68,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 1.68,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-30-11.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-30-11.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "1/4\"",
+          "distribution": "1@0.05m, resto @0.25m",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-30-11.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-30-11.png",
+        "confidence": "low",
+        "notes": "Cover dimensions not clearly visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-106",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.4,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "11_10-00-08-09.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.8,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 7.8,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "Ø 16mm (#5)",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-00-08-09.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "Ø 16mm (#5)",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-00-08-09.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "11_10-00-08-09.png",
+        "confidence": "assumed",
+        "notes": "No clear cover information visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-104",
+    "element_type": "beam",
+    "drawing_source": "E-23-E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.345,
+      "cross_section_height_meters": 0.75,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-13-17.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 6.65,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 0.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "3/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-13-17.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 10,
+          "diameter_str": "1/2\"",
+          "location": "Extremo",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-13-17.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-13-17.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-13-17.png",
+        "confidence": "high",
+        "notes": null
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-107",
+    "element_type": "beam",
+    "drawing_source": "E-23",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-09-28.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.85,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.55,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 5.55,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-09-28.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-09-28.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-09-28.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-09-28.png",
+        "confidence": "assumed",
+        "notes": "No concrete cover information visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VS-104",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_09-22-54-03.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 3.5,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-22-54-03.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-22-54-03.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05m, resto @0.25m",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_09-22-54-03.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_09-22-54-03.png",
+        "confidence": "low",
+        "notes": "Concrete cover not clearly visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-105",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-14-04.png",
+        "confidence": "high",
+        "notes": "Width clearly labeled. Height not dimensioned"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 3.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-14-04.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-14-04.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-14-04.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-14-04.png",
+        "confidence": "high",
+        "notes": "Concrete cover not clearly labeled"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-109",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.55,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-32-16.png",
+        "confidence": "high",
+        "notes": "Dimensions clearly labeled in Section A"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": null,
+          "span_estimated": true
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "3/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-32-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "Ø 20",
+          "location": "Extremo",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-32-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "3/8\"",
+          "distribution": "1@0.05, resto @0.10",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-32-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "null",
+        "screenshot_filename": "null",
+        "confidence": "assumed",
+        "notes": null
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-05",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.3,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-01-11-01.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 1.65,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 1.65,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 1.65,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-33-51.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-33-51.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-33-51.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-33-51.png",
+        "confidence": "high",
+        "notes": null
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-06",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Section",
+        "screenshot_filename": "11_10-00-38-03.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-00-38-03.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-00-38-03.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-00-38-03.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Drawing",
+        "screenshot_filename": "11_10-00-38-03.png",
+        "confidence": "low",
+        "notes": "Concrete cover not clearly visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-07",
+    "element_type": "beam",
+    "drawing_source": "E-23-E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-19-49.png",
+        "confidence": "medium",
+        "notes": "Width clearly labeled, height not visible"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 1.68,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 1.68,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 1.68,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-19-49.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-19-49.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-19-49.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-19-49.png",
+        "confidence": "assumed",
+        "notes": "No concrete cover information visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-08",
+    "element_type": "beam",
+    "drawing_source": "E-23",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-21-58.png",
+        "confidence": "high",
+        "notes": "Width clearly labeled on sections, height not clearly dimensioned."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 0.75,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 0.75,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "3/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-21-58.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-21-58.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-21-58.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "null",
+        "screenshot_filename": "11_10-00-21-58.png",
+        "confidence": "assumed",
+        "notes": "No concrete cover information visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-09",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.45,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-23-43.png",
+        "confidence": "high",
+        "notes": "Width and height clearly labeled in Section A"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": null,
+          "span_estimated": true
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-23-43.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "D 1/4\"",
+          "distribution": "1@0.05, resto @0.20 c/Extremo",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-23-43.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-23-43.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not dimensioned"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-10",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-24-10.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 2.75,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 1.8,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 1.8,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 4",
+          "clear_span_meters": 1.8,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 5",
+          "clear_span_meters": 2.75,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-24-10.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-24-10.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-24-10.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-24-10.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not dimensioned."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-06A",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.85,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-41-32.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 9.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 9.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-41-32.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-41-32.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-41-32.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": 4.0,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Standard cover value"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-03",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.55,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-31-33.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.21,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "20",
+          "location": "Extremo",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-31-33.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, 11@0.10, resto @0.20 c/ Extremo",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-31-33.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-31-33.png",
+        "confidence": "assumed",
+        "notes": null
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-10 A",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": null,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "11_10-00-47-26.png",
+        "confidence": "low",
+        "notes": "Dimensions not clearly visible in elevation view."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 3.4,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 2.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 2.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 4",
+          "clear_span_meters": 3.4,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-47-26.png",
+        "confidence": "low",
+        "notes": "Reinforcement details not clearly visible in elevation view"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-03A",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.55,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-27-43.png",
+        "confidence": "high",
+        "notes": "Dimensions clearly labeled in Section A"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 2.2,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-00-27-43.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-00-27-43.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, 1@0.10, resto @0.20 C./Extremo",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-27-43.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-27-43.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not explicitly dimensioned."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-806",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.4,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-56-34.png",
+        "confidence": "high",
+        "notes": "Dimensions clearly visible in sections"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.3,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 7.3,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-56-34.png",
+            "confidence": "high",
+            "notes": "Clearly visible in elevation"
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-56-34.png",
+            "confidence": "high",
+            "notes": "Clearly visible in elevation"
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-56-34.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": 4.0,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Standard cover value"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-04A",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.345,
+      "cross_section_height_meters": 0.3,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-27-58.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 4.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 3.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 3,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-27-58.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "Ø 20",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-27-58.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "Ø 8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-27-58.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-27-58.png",
+        "confidence": "low",
+        "notes": "Concrete cover not clearly visible, possibly within the cross-section detail but not explicitly dimensioned."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-05A",
+    "element_type": "beam",
+    "drawing_source": "E-23",
+    "geometry": {
+      "cross_section_width_meters": 0.2,
+      "cross_section_height_meters": 0.4,
+      "source": {
+        "view_type": "Section",
+        "screenshot_filename": "11_10-00-40-35.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.75,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 1.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 1.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 4",
+          "clear_span_meters": 1.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-00-40-35.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-00-40-35.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "2@0.05m, resto @0.25m",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-00-40-35.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Drawing",
+        "screenshot_filename": "11_10-00-40-35.png",
+        "confidence": "low",
+        "notes": "Concrete cover not clearly specified"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-807",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-59-30.png",
+        "confidence": "high",
+        "notes": "Width clearly labeled as 0.30m. Height not dimensioned."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 2.65,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 2.65,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 2.65,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 4",
+          "clear_span_meters": 2.65,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-59-30.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-59-30.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "2@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-59-30.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Cover not dimensioned"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-07A",
+    "element_type": "beam",
+    "drawing_source": "E-23-E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-42-43.png",
+        "confidence": "high",
+        "notes": "Width clearly labeled in detail view."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 1.8,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 1.8,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 1.8,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 4",
+          "clear_span_meters": 1.8,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 5",
+          "clear_span_meters": 1.8,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-00-42-43.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-00-42-43.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-42-43.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-42-43.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not dimensioned"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-08A",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.245,
+      "cross_section_height_meters": 0.3,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-44-52.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 0.75,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 0.75,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-44-52.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "Ø 8mm",
+          "distribution": "1@0.05, resto @0.10",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-44-52.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-44-52.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not explicitly dimensioned"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-01A",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.4,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-26-46.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 2.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 3.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 2.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 4",
+          "clear_span_meters": 3.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 5",
+          "clear_span_meters": 2.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-26-46.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-26-46.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "7@0.05, resto @0.10",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-26-46.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-26-46.png",
+        "confidence": "assumed",
+        "notes": "No concrete cover information found"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VT-09 A",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.55,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-45-14.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 9.88,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-45-14.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-45-14.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-45-14.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": 4.0,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Standard cover value"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-801",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.24,
+      "cross_section_height_meters": 0.3,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-48-57.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.49,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.49,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 5.49,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-48-57.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-48-57.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "2@0.10, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-48-57.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "General Arrangement",
+        "screenshot_filename": "11_10-00-48-57.png",
+        "confidence": "low",
+        "notes": "Concrete cover not explicitly dimensioned."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-802",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-51-45.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.05,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.05,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 5.05,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-51-45.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-51-45.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "Ø3/8\"",
+          "distribution": "1@0.05m, resto @0.25m",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-51-45.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-51-45.png",
+        "confidence": "assumed",
+        "notes": "No concrete cover information visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-803",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.25,
+      "cross_section_height_meters": 0.55,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-53-12.png",
+        "confidence": "high",
+        "notes": "Dimensions clearly labeled (25x55)"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 6.76,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "20 C/Extremo",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-53-12.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-53-12.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "assumed",
+        "screenshot_filename": "11_10-00-53-12.png",
+        "confidence": "assumed",
+        "notes": "No concrete cover information visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-804",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-53-28.png",
+        "confidence": "high",
+        "notes": "Width clearly dimensioned. Height not dimensioned."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 10.05,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 10.05,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "Ø 20",
+          "location": "Extremo",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-53-28.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "Ø 10",
+          "location": "Extremo",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-53-28.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "Ø 8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-53-28.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-53-28.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not specified"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-805",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-00-54-31.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-54-31.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom continuous",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-54-31.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-00-54-31.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-00-54-31.png",
+        "confidence": "assumed",
+        "notes": "No concrete cover information visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-808",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-01-01-46.png",
+        "confidence": "high",
+        "notes": "Width clearly labeled as '30x...' implying 30cm"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.75,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 7.75,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-01-01-46.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 3,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-01-01-46.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.10",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-01-46.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.10",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-01-46.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-01-01-46.png",
+        "confidence": "assumed",
+        "notes": "No concrete cover dimension visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VA-08",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.55,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-01-14-16.png",
+        "confidence": "high",
+        "notes": "Dimensions clearly labeled below the beam"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": null,
+          "span_estimated": true
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25 C/Extremo",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-14-16.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Assumed",
+        "screenshot_filename": "assumed",
+        "confidence": "assumed",
+        "notes": "Cover not dimensioned"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-809",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-01-02-06.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 10.04,
+          "span_estimated": false
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "20",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-02-06.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "16",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-02-06.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "Ø3/8\"",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-02-06.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-01-02-06.png",
+        "confidence": "assumed",
+        "notes": "Not visible"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-101, V-102 y V-103",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": null,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Detail",
+        "screenshot_filename": "11_10-01-25-27.png",
+        "confidence": "low",
+        "notes": "No clear dimensions visible for beam cross-section. Support bearing length is shown as 0.10 to 0.15."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": null,
+          "span_estimated": true
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": 2.0,
+      "source": {
+        "view_type": "Detail Callout",
+        "screenshot_filename": "11_10-01-25-27.png",
+        "confidence": "medium",
+        "notes": "2cm concrete cover explicitly mentioned for the beam where the joist bears."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-104 y V-105",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": null,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Plan View",
+        "screenshot_filename": "11_10-01-25-42.png",
+        "confidence": "low",
+        "notes": "Beam visible in plan view but dimensions not found in provided screenshots."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": null,
+          "span_estimated": true
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Not Found",
+        "screenshot_filename": "11_10-01-25-42.png",
+        "confidence": "low",
+        "notes": "Reinforcement details not found in provided screenshot."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "V-810",
+    "element_type": "beam",
+    "drawing_source": "E-23-E-33",
+    "geometry": {
+      "cross_section_width_meters": null,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "11_10-01-04-57.png",
+        "confidence": "medium",
+        "notes": "Beam V-810 visible, but cross-section dimensions not found in provided screenshot."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 5.45,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 5.95,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 13.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 6,
+          "diameter_str": "18M",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-01-04-57.png",
+            "confidence": "medium",
+            "notes": "Location not specified. Assumed bottom reinforcement based on typical beam design."
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "18M H",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-01-04-57.png",
+            "confidence": "medium",
+            "notes": "Location not specified. Assumed top reinforcement based on typical beam design."
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "#3 (10mm)",
+          "distribution": "1@0.05, Resto @0.20",
+          "source": {
+            "view_type": "Elevation",
+            "screenshot_filename": "11_10-01-04-57.png",
+            "confidence": "medium",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation",
+        "screenshot_filename": "11_10-01-04-57.png",
+        "confidence": "low",
+        "notes": "Concrete cover not explicitly dimensioned."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VA-01",
+    "element_type": "beam",
+    "drawing_source": "E-23",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.6,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-01-06-11.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.98,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 7.98,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 7.98,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [],
+      "transverse_stirrups": [],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-01-06-11.png",
+        "confidence": "low",
+        "notes": "Reinforcement details not clearly visible in provided view."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VA-02",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.55,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-01-06-25.png",
+        "confidence": "high",
+        "notes": null
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": null,
+          "span_estimated": true
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-01-06-25.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "5/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-01-06-25.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-06-25.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "assumed",
+        "screenshot_filename": "11_10-01-06-25.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not explicitly dimensioned"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VA-03",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.55,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-01-06-42.png",
+        "confidence": "high",
+        "notes": "Width and height clearly labeled in Section A"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": null,
+          "span_estimated": true
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "20",
+          "location": "Exterior",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-06-42.png",
+            "confidence": "high",
+            "notes": "ø 20, C/Extremo label visible near beam VA-03"
+          }
+        },
+        {
+          "quantity": 1,
+          "diameter_str": "16",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-06-42.png",
+            "confidence": "high",
+            "notes": "ø 16 label visible near beam VA-03"
+          }
+        },
+        {
+          "quantity": 1,
+          "diameter_str": "10",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-06-42.png",
+            "confidence": "high",
+            "notes": "ø 10 label visible near beam VA-03"
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-06-42.png",
+            "confidence": "high",
+            "notes": "Stirrup distribution clearly visible near beam VA-03"
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-01-06-42.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not explicitly dimensioned."
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VA-04",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-01-07-50.png",
+        "confidence": "high",
+        "notes": "Width clearly labeled as 30cm in SECCION A and SECCION B detail views."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 1.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 1.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 1.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 4",
+          "clear_span_meters": 1.6,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "25mm",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-07-50.png",
+            "confidence": "high",
+            "notes": "25mm diameter and quantity labeled"
+          }
+        },
+        {
+          "quantity": 4,
+          "diameter_str": "16mm",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-07-50.png",
+            "confidence": "high",
+            "notes": "16mm diameter and quantity labeled"
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-07-50.png",
+            "confidence": "high",
+            "notes": "Clearly labeled in the elevation view"
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-01-07-50.png",
+        "confidence": "low",
+        "notes": "Cover not clearly dimensioned"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VA-06",
+    "element_type": "beam",
+    "drawing_source": "E-23-E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.7,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-01-12-53.png",
+        "confidence": "high",
+        "notes": "Dimensions clearly labeled in section view."
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 7.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        },
+        {
+          "span_id": "Span 3",
+          "clear_span_meters": 7.0,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "column"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 2,
+          "diameter_str": "Ø3/8\"",
+          "location": "Top",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-12-53.png",
+            "confidence": "high",
+            "notes": null
+          }
+        },
+        {
+          "quantity": 2,
+          "diameter_str": "Ø5/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-12-53.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.25",
+          "source": {
+            "view_type": "Elevation View",
+            "screenshot_filename": "11_10-01-12-53.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Elevation View",
+        "screenshot_filename": "11_10-01-12-53.png",
+        "confidence": "assumed",
+        "notes": "No concrete cover information visible in the image"
+      }
+    },
+    "extraction_notes": null
+  },
+  {
+    "element_id": "VA-07",
+    "element_type": "beam",
+    "drawing_source": "E-23 to E-33",
+    "geometry": {
+      "cross_section_width_meters": 0.3,
+      "cross_section_height_meters": 0.55,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-01-14-06.png",
+        "confidence": "high",
+        "notes": "Dimensions clearly labeled in Section A"
+      },
+      "components": [
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 1",
+          "clear_span_meters": 7.75,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        },
+        {
+          "span_id": "Span 2",
+          "clear_span_meters": 7.75,
+          "span_estimated": false
+        },
+        {
+          "element_id": null,
+          "width_meters": null,
+          "grid_line": null,
+          "support_type": "assumed"
+        }
+      ]
+    },
+    "reinforcement": {
+      "longitudinal_bars": [
+        {
+          "quantity": 10,
+          "diameter_str": "205/8\"",
+          "location": "Bottom",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-01-14-06.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "transverse_stirrups": [
+        {
+          "stirrup_diameter_str": "8mm",
+          "distribution": "1@0.05, resto @0.10",
+          "source": {
+            "view_type": "Cross-Section Detail",
+            "screenshot_filename": "11_10-01-14-06.png",
+            "confidence": "high",
+            "notes": null
+          }
+        }
+      ],
+      "concrete_cover_cm": null,
+      "source": {
+        "view_type": "Cross-Section Detail",
+        "screenshot_filename": "11_10-01-14-06.png",
+        "confidence": "assumed",
+        "notes": "Concrete cover not explicitly dimensioned."
+      }
+    },
+    "extraction_notes": null
+  }
+]

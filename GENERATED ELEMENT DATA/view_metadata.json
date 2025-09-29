@@ -1,0 +1,1562 @@
+{
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/01/01_10-01-27-49.png": {
+    "view_type": "Standard Detail",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-01"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/01/01_10-01-28-01.png": {
+    "view_type": "Standard Detail",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-01"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/01/01_10-01-28-13.png": {
+    "view_type": "Standard Detail",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-01"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/01/01_10-01-28-32.png": {
+    "view_type": "Standard Detail",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/01/01_10-01-28-43.png": {
+    "view_type": "Standard Detail",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/01/01_10-01-29-03.png": {
+    "view_type": "Standard Detail",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/01/01_10-01-29-44.png": {
+    "view_type": "Standard Detail",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-01"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/01/01_10-01-29-56.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-01"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/02/02_09-00-29-50.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/02/02_09-00-29-59.png": {
+    "view_type": "Standard Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/02/02_09-00-30-44.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/02/02_09-00-31-06.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 02/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/03/03_09-00-42-58.png": {
+    "view_type": "Plan View",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-03"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/03/03_09-00-44-14.png": {
+    "view_type": "Standard Detail",
+    "element_type": "footing",
+    "element_id": "General",
+    "drawing_source": "E-01"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/03/03_09-00-44-32.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-03"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/04/04_09-00-53-45.png": {
+    "view_type": "Plan View",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/04/04_09-00-54-34.png": {
+    "view_type": "Plan View",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-14 to E-22"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/04/04_09-00-54-47.png": {
+    "view_type": "Elevation View",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/04/04_09-00-54-58.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/04/04_09-00-55-06.png": {
+    "view_type": "Standard Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/04/04_09-00-55-12.png": {
+    "view_type": "Standard Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/04/04_09-00-55-23.png": {
+    "view_type": "Connection Detail",
+    "element_type": "stair",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/04/04_09-00-55-50.png": {
+    "view_type": "Elevation View",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/04/04_09-00-56-10.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 04/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-57-48.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "C-01",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-57-53.png": {
+    "view_type": "Elevation View",
+    "element_type": "column",
+    "element_id": "C-01",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-58-00.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "column",
+    "element_id": "C-02",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-58-05.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "C-02",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-58-17.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "C-03",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-58-24.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "C-03",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-58-30.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "column",
+    "element_id": "C-03",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-58-36.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "C-03",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-58-43.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "C-04",
+    "drawing_source": "E-05, E-06, or E-07"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-58-50.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "C-04",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-58-57.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "C-04",
+    "drawing_source": "E-05, E-06, or E-07"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-59-08.png": {
+    "view_type": "Connection Detail",
+    "element_type": "wall",
+    "element_id": "C-05",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-00-59-20.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "C-06",
+    "drawing_source": "E-05, E-06, or E-07"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-01-00-47.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "1",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-01-02-07.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "1",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-01-02-46.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "1",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-01-03-09.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "1",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-01-03-24.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "1",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/05/05_09-01-03-33.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/06/06_09-01-04-50.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "2",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/06/06_09-01-06-53.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "2",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/06/06_09-01-07-15.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "PLACA 2",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/06/06_09-01-07-35.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "2",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/06/06_09-01-07-54.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/06/06_09-01-08-17.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "2",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/06/06_09-01-08-37.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 06/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/07/07_09-01-11-06.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "PLACA 3",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/07/07_09-01-11-12.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "PLACA 3",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/07/07_09-01-11-18.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "PLACA 3",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/07/07_09-01-11-38.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "4",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/07/07_09-01-11-47.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "4",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/07/07_09-01-11-55.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "4",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/07/07_09-01-12-06.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "4",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/07/07_09-01-12-15.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "4",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/07/07_09-01-12-26.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "column",
+    "element_id": "VC-01",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/07/07_09-01-12-31.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/07/07_09-01-12-41.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 07/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/08/08_09-01-13-41.png": {
+    "view_type": "Elevation View",
+    "element_type": "column",
+    "element_id": "M-1",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/08/08_09-01-13-50.png": {
+    "view_type": "Elevation View",
+    "element_type": "column",
+    "element_id": "M-9",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/08/08_09-01-14-02.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 08/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/09/09_09-01-14-44.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/09/09_09-01-15-01.png": {
+    "view_type": "Connection Detail",
+    "element_type": "footing",
+    "element_id": "General",
+    "drawing_source": "E-03"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/09/09_09-01-15-07.png": {
+    "view_type": "Elevation View",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/09/09_09-01-15-17.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 09/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/10/10_09-01-16-16.png": {
+    "view_type": "Elevation View",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/10/10_09-01-16-32.png": {
+    "view_type": "Standard Detail",
+    "element_type": "footing",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/10/10_09-01-16-38.png": {
+    "view_type": "Elevation View",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/10/10_09-01-16-49.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/11/11_09-19-09-37.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-1",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/11/11_09-19-11-06.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-2",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/11/11_09-19-12-00.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-3",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/11/11_09-19-31-43.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-4",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/11/11_09-19-32-10.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-5",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/11/11_09-19-33-19.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-6",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/11/11_09-19-33-38.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-7",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/11/11_09-19-34-45.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 11/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-35-29.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-8",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-35-51.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-9",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-36-16.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-10",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-36-42.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-11",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-37-41.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-12",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-37-59.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-13",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-38-22.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-14",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-38-46.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-15",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-39-05.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-16",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-39-13.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-17",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-39-22.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-18",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-42-17.png": {
+    "view_type": "Standard Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-55-27.png": {
+    "view_type": "Elevation View",
+    "element_type": "wall",
+    "element_id": "M-19",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-56-40.png": {
+    "view_type": "Standard Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/12/12_09-19-56-52.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 12/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-19-58-34.png": {
+    "view_type": "Elevation View",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-00-24.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-00-33.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-00-43.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-00-50.png": {
+    "view_type": "Standard Detail",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-01-11.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-01-45.png": {
+    "view_type": "Elevation View",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-02-03.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-02-39.png": {
+    "view_type": "Connection Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-06-41.png": {
+    "view_type": "Standard Detail",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-07-26.png": {
+    "view_type": "Connection Detail",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-07-33.png": {
+    "view_type": "Standard Detail",
+    "element_type": "column",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-08-14.png": {
+    "view_type": "Standard Detail",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-08-22.png": {
+    "view_type": "Connection Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-08-30.png": {
+    "view_type": "Standard Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-08-37.png": {
+    "view_type": "Standard Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-08-46.png": {
+    "view_type": "Standard Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-08-51.png": {
+    "view_type": "Connection Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-09-00.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-09-08.png": {
+    "view_type": "Connection Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-01"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-09-14.png": {
+    "view_type": "Standard Detail",
+    "element_type": "footing",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-09-22.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-09-28.png": {
+    "view_type": "Connection Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-09-35.png": {
+    "view_type": "Plan View",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-05"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/13/13_09-20-09-48.png": {
+    "view_type": "Standard Detail",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/14/14_09-20-13-39.png": {
+    "view_type": "Plan View",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/14/14_09-20-14-07.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/15/15_09-20-14-38.png": {
+    "view_type": "Plan View",
+    "element_type": "beam",
+    "element_id": "V-101",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/15/15_09-20-14-49.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-15"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/16/16_09-20-16-03.png": {
+    "view_type": "Plan View",
+    "element_type": "beam",
+    "element_id": "V-101",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/16/16_09-20-16-14.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-16"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/17/17_09-20-18-43.png": {
+    "view_type": "Plan View",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/17/17_09-20-18-54.png": {
+    "view_type": "Plan View",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/17/17_09-20-19-25.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e-17"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/18/18_09-20-20-23.png": {
+    "view_type": "Plan View",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/18/18_09-20-20-33.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-18"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/19/19_09-20-21-03.png": {
+    "view_type": "Plan View",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/19/19_09-20-21-14.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-19"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/20/20_09-20-22-25.png": {
+    "view_type": "Plan View",
+    "element_type": "beam",
+    "element_id": "V-101",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/20/20_09-20-22-36.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 20/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/21/21_09-20-23-35.png": {
+    "view_type": "Plan View",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/21/21_09-20-23-46.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-21"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/22/22_09-20-24-46.png": {
+    "view_type": "Plan View",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-14"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/22/22_09-20-25-02.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-22"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/23/23_09-20-26-16.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-401",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/23/23_09-20-27-22.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VS-402",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/23/23_09-20-33-00.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VS-403",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/23/23_09-20-35-46.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-404",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/23/23_09-20-41-01.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VS-405",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/23/23_09-20-42-47.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-406",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/23/23_09-20-44-21.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/24/11_09-21-02-16.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-301",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/24/11_09-21-02-40.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-302",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/24/11_09-21-02-54.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VS-303",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/24/11_09-21-03-05.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-304",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/24/11_09-21-03-22.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/24/11_09-21-05-08.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-305",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/24/11_09-21-27-40.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "VIGAS II"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/25/11_09-21-28-59.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-306",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/25/11_09-21-31-50.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-307",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/25/11_09-21-35-49.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-201",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/25/11_09-21-36-26.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-202",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/25/11_09-22-02-39.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VS-203",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/25/11_09-22-03-23.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-204",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/25/11_09-22-06-33.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/25/11_09-22-06-46.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "VIGAS III"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/26/26_09-22-08-45.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-205",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/26/26_09-22-13-44.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-206",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/26/26_09-22-14-29.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-207",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/26/26_09-22-18-04.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-101",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/26/26_09-22-18-28.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VS-102",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/26/26_09-22-18-44.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VS-103",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/26/26_09-22-18-59.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/26/26_09-22-19-08.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "VIGAS IV"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/27/11_09-22-54-03.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-104",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/27/11_10-00-05-43.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-105",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/27/11_10-00-08-09.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-106",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/27/11_10-00-09-28.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VS-107",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/27/11_10-00-11-15.png": {
+    "view_type": "Elevation View",
+    "element_type": "slab",
+    "element_id": "V-108",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/27/11_10-00-11-33.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/27/11_10-00-11-41.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 27/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/28/11_10-00-12-26.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-101",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/28/11_10-00-12-56.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-102",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/28/11_10-00-13-06.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-103",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/28/11_10-00-13-17.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-104",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/28/11_10-00-14-04.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-105",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/28/11_10-00-14-58.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-106",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/28/11_10-00-15-06.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-106",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/28/11_10-00-15-53.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "V-108",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/28/11_10-00-17-36.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-107",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/28/11_10-00-18-49.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 28/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/29/11_10-00-29-41.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-110",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/29/11_10-00-30-11.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-01",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/29/11_10-00-31-16.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-02",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/29/11_10-00-31-33.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VT-03",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/29/11_10-00-32-03.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-04",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/29/11_10-00-32-16.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-109",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/29/11_10-00-33-51.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-05",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/29/11_10-00-38-03.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-06",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/29/11_10-00-39-27.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "VIGAS VII"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/30/11_10-00-19-49.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-07",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/30/11_10-00-21-58.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VT-08",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/30/11_10-00-23-43.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-09",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/30/11_10-00-24-10.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-10",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/30/11_10-00-26-46.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-01A",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/30/11_10-00-27-25.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-02A",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/30/11_10-00-27-43.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VT-03A",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/30/11_10-00-27-58.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-04A",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/30/11_10-00-28-27.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-30"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/31/11_10-00-40-35.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-05A",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/31/11_10-00-41-32.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-06A",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/31/11_10-00-42-43.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-07A",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/31/11_10-00-44-52.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "VT-08A",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/31/11_10-00-45-14.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-09 A",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/31/11_10-00-47-26.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-10 A",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/31/11_10-00-48-57.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-801",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/31/11_10-00-50-20.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "VIGAS VIII"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/32/11_10-00-51-45.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-802",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/32/11_10-00-53-12.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-803",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/32/11_10-00-53-28.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-804",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/32/11_10-00-54-31.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-805",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/32/11_10-00-56-34.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-806",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/32/11_10-00-59-30.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-807",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/32/11_10-01-01-46.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "V-808",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/32/11_10-01-02-06.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "V-809",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/32/11_10-01-03-30.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-32"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/33/11_10-01-04-57.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "V-810",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/33/11_10-01-06-11.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VA-01",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/33/11_10-01-06-25.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VA-02",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/33/11_10-01-06-42.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VA-03",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/33/11_10-01-07-50.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VA-04",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/33/11_10-01-11-01.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VT-05",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/33/11_10-01-12-53.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VA-06",
+    "drawing_source": "E-23-E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/33/11_10-01-14-06.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "VA-07",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/33/11_10-01-14-16.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VA-08",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/33/11_10-01-14-32.png": {
+    "view_type": "Elevation View",
+    "element_type": "beam",
+    "element_id": "VA-09",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/33/11_10-01-14-42.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "VIGAS X"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-19-00.png": {
+    "view_type": "Elevation View",
+    "element_type": "stair",
+    "element_id": "General",
+    "drawing_source": "E-23"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-19-44.png": {
+    "view_type": "Elevation View",
+    "element_type": "stair",
+    "element_id": "General",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-22-01.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-01"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-22-32.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-23-00.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-23-09.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-23-26.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-23-37.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-23-50.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-24-04.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "General"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-24-26.png": {
+    "view_type": "Plan View",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-14-E-22"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-24-33.png": {
+    "view_type": "Standard Detail",
+    "element_type": "wall",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/34/11_10-01-24-45.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "e 34/35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-25-14.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "slab",
+    "element_id": "General",
+    "drawing_source": "E-35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-25-20.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-25-27.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "V-101, V-102 y V-103",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-25-34.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-25-42.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "V-104 y V-105",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-25-51.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-26-01.png": {
+    "view_type": "Cross-Section Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-35"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-26-07.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-26-15.png": {
+    "view_type": "Standard Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-26-27.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-26-34.png": {
+    "view_type": "Standard Detail",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-26-41.png": {
+    "view_type": "Connection Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-23 to E-33"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-26-52.png": {
+    "view_type": "Standard Detail",
+    "element_type": "general_detail",
+    "element_id": "General",
+    "drawing_source": "E-01"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-27-01.png": {
+    "view_type": "Standard Detail",
+    "element_type": "beam",
+    "element_id": "General",
+    "drawing_source": "E-13"
+  },
+  "/content/drive/Shareddrives/Projects/Ingenium/Edificio Tello/VIEW SCREENSHOTS/35/11_10-01-27-17.png": {
+    "view_type": "Title Block",
+    "element_type": "administrative",
+    "element_id": "General",
+    "drawing_source": "E-35"
+  }
+}

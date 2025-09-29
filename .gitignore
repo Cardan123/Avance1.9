@@ -1,0 +1,38 @@
+# Ignorar archivos de imagen y PDF
+*.png
+*.pdf
+
+# Ignorar archivos de sistema
+.DS_Store
+
+# Ignorar archivos de entorno
+.env
+.env.local
+
+# Ignorar archivos de configuración local
+*.local
+
+# Ignorar directorios de dependencias
+node_modules/
+vendor/
+
+# Ignorar archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignorar archivos generados
+*.log
+*.tmp
+*.temp
+
+# Ignorar archivos de respaldo
+*~
+*.bak
+*.backup
+
+# Ignorar archivos de sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
